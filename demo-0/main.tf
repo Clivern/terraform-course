@@ -27,3 +27,9 @@ variable "name4" {
   description = "describe your variable"
   default = true
 }
+
+variable "name5" {
+  type = number
+  description = "describe your variable"
+  default = 20
+}

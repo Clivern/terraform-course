@@ -1,13 +1,11 @@
-# terraform-course
+### terraform-course
 
 * These files are part of my Udemy course about Terraform
 * Course URL: https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/?couponCode=TERRAFORM_GIT
 
-# Compatibility
 
-* This is the >=terraform-0.12 branch. For compatibility with older versions, use the terraform-0.11 branch.
+### Demo overview
 
-# Demo overview
 Demo Directory | Description
 ------------ | -------------
 first-steps | First steps
@@ -37,3 +35,8 @@ docker-demo-1 | Using ECR - The EC2 Container Registry
 docker-demo-2 | Using ECS - The EC2 Container Service
 docker-demo-3 | Using ECR/ECS with Jenkins in a complete workflow
 module-demo | Using ECS + ALB in 4 modules to show how developing terraform modules work
+
+
+### References
+
+- [Built-in Functions](https://developer.hashicorp.com/terraform/language/functions)
